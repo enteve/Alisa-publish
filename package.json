@@ -1,6 +1,6 @@
 {
   "name": "semanticdb-alisa",
-  "version": "0.1.19",
+  "version": "0.2.1",
   "description": "NL2SQL Robot for SemanticDB",
   "main": "alisa.min.js",
   "scripts": {
@@ -39,8 +39,9 @@
     "mongodb": "^4.5.0",
     "mysql-await": "^2.2.3",
     "natural": "^6.8.0",
-    "semanticdb": "^0.1.19",
+    "semanticdb": "^0.2.1",
     "semanticdb-common-lib": "^1.0.1",
+    "semanticdb-core": "^1.0.23",
     "underscore": "^1.13.6"
   },
   "devDependencies": {
