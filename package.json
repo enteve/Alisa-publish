@@ -1,6 +1,6 @@
 {
   "name": "semanticdb-alisa",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "description": "NL2SQL Robot for SemanticDB",
   "main": "alisa.min.js",
   "scripts": {
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/enteve/Alisa-publish#readme",
   "dependencies": {
-    "@databricks/sql": "^1.11.0",
     "@node-rs/jieba": "^1.9.1",
     "axios": "^0.19.2",
     "cls-hooked": "^4.2.2",
@@ -42,7 +41,7 @@
     "mysql-await": "^2.2.3",
     "mysql2": "^3.11.5",
     "natural": "^6.8.0",
-    "semanticdb": "^0.2.1",
+    "semanticdb": "^0.2.4",
     "semanticdb-common-lib": "^1.0.13",
     "semanticdb-core": "^1.0.42",
     "underscore": "^1.13.6"
